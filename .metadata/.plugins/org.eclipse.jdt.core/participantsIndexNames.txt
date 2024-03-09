@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+E:\201.Develop\01. WorkSpace\SpringStudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2597966081.index
+\footReserve\src
+E:\201.Develop\01. WorkSpace\SpringStudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1336951700.index
+\footReserve\src
